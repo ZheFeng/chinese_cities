@@ -1,7 +1,6 @@
 # encoding: utf-8
 
-require 'rspec'
-require 'chinese_cities/city'
+require 'spec_helper'
 
 module ChineseCities
 

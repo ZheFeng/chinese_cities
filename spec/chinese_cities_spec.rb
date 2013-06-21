@@ -1,7 +1,5 @@
 # encoding: utf-8
- 
-require 'rspec'
-require 'chinese_cities'
+require 'spec_helper'
 
 describe ChineseCities do
   context '.search' do
