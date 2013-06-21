@@ -1,5 +1,7 @@
 # Chinese Cities
 
+[![Build Status](https://travis-ci.org/zhouguangming/chinese_cities.png?branch=master)](https://travis-ci.org/zhouguangming/chinese_cities)
+
 Chinese provinces and cities collection
 
 ## Installation
