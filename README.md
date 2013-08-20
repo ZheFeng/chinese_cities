@@ -110,3 +110,8 @@ rspec
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## See Others
+
+https://github.com/saberma/china_city
+https://github.com/Kehao/area_cn_select
