@@ -113,5 +113,6 @@ rspec
 
 ## See Others
 
-https://github.com/saberma/china_city
-https://github.com/Kehao/area_cn_select
+1. https://github.com/saberma/china_city
+
+2. https://github.com/Kehao/area_cn_select
